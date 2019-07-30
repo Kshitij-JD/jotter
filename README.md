@@ -1,2 +1,2 @@
 # jotter
-Web notepad 
+Web Sticky Notes
